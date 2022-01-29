@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&layout=compact&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin)](https://github.com/Stasenko-Konstantin)
