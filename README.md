@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&hide=Java&langs_count=5&layout=compact)](https://github.com/Stasenko-Konstantin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&hide=Java,Scala&langs_count=4&layout=compact)](https://github.com/Stasenko-Konstantin)
 
 <details>
   <summary> </summary>
