@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&title_color=fff&text_color=fff&langs_count=6&bg_color=30,e96443,904e95&layout=compact)](https://github.com/Stasenko-Konstantin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&title_color=fff&text_color=fff&langs_count=4&bg_color=30,e96443,904e95&layout=compact)](https://github.com/Stasenko-Konstantin)
 
 
 <details>
