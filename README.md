@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&langs_count=6&layout=compact)](https://github.com/Stasenko-Konstantin)
-
 if you are going to look at my repos (though why would you do that 🤨), I must warn you:
 - WIP - work in progress - which means you might find it a little interesting (or not at all :)
 - very WIP - there is nothing interesting here, even for me. at least for now
@@ -20,4 +18,9 @@ if you are going to look at my repos (though why would you do that 🤨), I must
   
   
   #### Программирование на языке Ocaml
+  
+  <details>
+  <summary> </summary>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&langs_count=6&layout=compact)](https://github.com/Stasenko-Konstantin)
+  </details>
 </details>  
