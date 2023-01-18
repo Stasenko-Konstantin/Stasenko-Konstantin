@@ -2,7 +2,7 @@
 
 if you are going to look at my repos (though why would you do that 🤨), I must warn you:
 - WIP - work in progress - which means you might find it a little interesting (or not at all :)
-- very WIP - there is nothing interesting here, even for me. at least for now
+- very WIP - there is nothing interesting here, even for me. at least for now. think of them as an thunks, just like in haskell.
 
 <details>
   <summary> </summary>
