@@ -1,8 +1,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&langs_count=8&layout=compact)](https://github.com/Stasenko-Konstantin)
 
+[мой блог](https://stasenko-konstantin.github.io/my-blog/)
+
 <details>
   <summary> </summary>
-  писать blazingly fast 🚀 в каждом проекте на rust - бесценно, даже если это не так, особенно если это не так
+  писать blazingly fast 🚀 в каждом проекте на rust - бесценно, даже если это не так. особенно если это не так
   
   ---
   
