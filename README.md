@@ -1,5 +1,3 @@
-[мой блог](https://stasenko-konstantin.github.io/my-blog/)
-
 <details>
   <summary> </summary>
   
